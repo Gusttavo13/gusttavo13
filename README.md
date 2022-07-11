@@ -11,8 +11,8 @@
 <h1 align="center"> Github Stats </h1>
 
 <div align="center">
-  <img height="180em" src='https://github-readme-stats.vercel.app/api?username=Gusttavo13&show_icons=true&theme=github_dark'>
-  <img height="180em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Gusttavo13&layout=compact&langs_count=4&theme=github_dark'>
+  <img height="150em" src='https://github-readme-stats.vercel.app/api?username=Gusttavo13&show_icons=true&theme=github_dark'>
+  <img height="150em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Gusttavo13&layout=compact&langs_count=4&theme=github_dark'>
 </div>
 
 <h1 align="center"> 🛠  Technologies and tools </h1>
