@@ -4,8 +4,8 @@
 <h3 align="center">Backend Developer from Brazil</h3>
 
 
-<div>
-  <img  src='https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=default&font=default&quotesUrl=https://github.com/Gusttavo13/gusttavo13/blob/main/quotes.json'>
+<div align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=default&font=default&quotesUrl=https://github.com/Gusttavo13/gusttavo13/blob/main/quotes.json'>
 </div>
 
 <h1 align="center"> Github Stats </h1>
