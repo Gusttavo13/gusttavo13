@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=default&font=default&quotesUrl=https://github.com/Gusttavo13/gusttavo13/blob/main/quotes.json'>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://quotesgusttavo.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=default&font=default&quotesUrl=https://github.com/Gusttavo13/gusttavo13/blob/main/quotes.json'>
 </div>
 
 <h1 align="center"> Github Stats </h1>
@@ -70,4 +70,16 @@
   <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"  alt="AF logo" title="AF" height="25" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma logo" title="Figma" height="25" />
 
+</div>
+
+## 📩 Contato
+
+<div>
+  <a target="_blank" href="https://www.linkedin.com/in/gusttavo13/">
+    <img src="https://img.shields.io/badge/Linkedin-0078D6?style=for-the-badge&logo=linkedin&logoColor=white"   alt="Linkedin logo" title="Linkedin" height="25" />
+  </a>
+  <a target="_blank" href="mailto:gustavosousaprogrammer@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" height="25" />
+  </a>
+  <img src="https://img.shields.io/badge/Gusttavo13-%230123-005C84?style=for-the-badge&logo=discord&logoColor=white&color=005C84" alt="Discord logo" title="Discord" height="25" />
 </div>
