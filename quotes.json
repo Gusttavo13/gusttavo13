@@ -15,9 +15,36 @@
         "quote":"Um pequeno passo para um homem, um salto gigantesco para a humanidade",
         "author":"Neil Armstrong"
     },
-    
     {
         "quote":"O espírito humano precisa prevalecer sobre a tecnologia.",
         "author":"Albert Einstein"
+    },
+    {
+        "quote":"Eu tenho um legado para deixar, não olhos para impressionar.",
+        "author":"Gustavo Sousa"
+    },
+    {
+        "quote":"A moralidade é a melhor de todas as regras para orientar a humanidade.",
+        "author":"Friedrich Nietzsche"
+    },
+    {
+        "quote":"Os métodos são as verdadeiras riquezas.",
+        "author":"Friedrich Nietzsche"
+    },
+    {
+        "quote":"Eduquem as crianças, para que não seja necessário punir os adultos.",
+        "author":"Pitágoras"
+    },
+    {
+        "quote":"Quem pensa pouco, erra muito.",
+        "author":"Leonardo da Vinci"
+    },
+    {
+        "quote":"A imaginação é mais importante que o conhecimento.",
+        "author":"Albert Einstein"
+    },
+    {
+        "quote":"O sábio nunca diz tudo o que pensa, mas pensa sempre tudo o que diz.",
+        "author":"Aristóteles"
     }
 ]
