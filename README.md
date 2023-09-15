@@ -12,7 +12,7 @@
 </div>
 
 <h1 align="center"> 🛠  Technologies and tools </h1>
-<h3 align="center"> I'm currently using these technologies in my projects. </h3>
+<h3 align="center"> Technology is my strength </h3>
 <div>
   <img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=FFFFFF" alt="Java logo" title="Java" height="25" />
   <img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor#6DB33F" alt="Spring logo" title="Strping" height="25" />
