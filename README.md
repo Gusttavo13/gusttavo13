@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Yaay!, I'm <a href="https://github.com/gusttavo13">Gustavo S.</a>  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h1>
 
-<h3 align="center">🇧🇷 Fullstack Developer - 19y</h3>
+<h3 align="center">🇧🇷 Fullstack Developer</h3>
 <h5 align="center"> I started programming when I was 8 years old</h4>
 <br>
 <h1 align="center"> Github Stats </h1>
@@ -90,9 +90,6 @@
 ## 📩 Contato
 
 <div>
-  <a target="_blank" href="https://www.linkedin.com/in/gusttavo13/">
-    <img src="https://img.shields.io/badge/Linkedin-0078D6?style=for-the-badge&logo=linkedin&logoColor=white"   alt="Linkedin logo" title="Linkedin" height="25" />
-  </a>
   <a target="_blank" href="mailto:gustavosousaprogrammer@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" height="25" />
   </a>
